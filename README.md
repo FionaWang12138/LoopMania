@@ -1,3 +1,1 @@
-# COMP2511 Major Project: Loop Mania
-
-[**Link to specification**](https://gitlab.cse.unsw.edu.au/COMP2511/21T2/project-specification)
+A game in which the character travels through a loop, and gain points by defeating enemies and constructing buildings. The game features a series of different enemies, which increase in strength and complexity as the player progresses through the game. To enhance the player's experience, the games features a shop, health potions, coins, and weapons.
